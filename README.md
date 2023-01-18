@@ -4,7 +4,7 @@
 농업에 대해 모르더라도, '너와 농부싶어'와 함께 쉽게 시작할 수 있습니다.<br>
 
 # 기획 배경
-[프로젝트 기획 배경.pdf](https://github.com/JungHoSuk/JSP_Project/files/10442420/default.pdf)
+[프로젝트 기획 배경.pdf](https://github.com/JungHoSuk/JSP_Project/files/10442467/default.pdf)
 
 # 기대 효과
 [프로젝트 기대 효과.pdf](https://github.com/JungHoSuk/JSP_Project/files/10442421/default.pdf)
